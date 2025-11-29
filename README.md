@@ -53,12 +53,14 @@ Created a complete leave application for employees with instant push notificatio
 Features: Secure login/signup, leave submission with reason & attachments, approval workflow, advanced filtering by type/year, and full history.
 Optimized performance and responsiveness for low-end Android devices used in the field.
 
-🔷 E-Commerce Mobile App with Banking Features – PAF Hospital (Mar–Jun 2025)
-Flutter | Provider State Management | REST APIs | Stripe Gateway
+🔷 E-Commerce Mobile App – PAF Hospital (Mar–Jun 2025)
 
-Developed a rich-featured e-commerce application with product catalog, search, wishlist, cart, and an integrated payment gateway.
-Built managed order tracking and user profile sections with smooth animations and clean UI/UX.
-Focused heavily on code quality, performance optimization, and best Flutter practices.
+Technologies: Flutter | Provider (State Management) | REST APIs | Stripe Payment Gateway
+
+Developed a feature-rich e-commerce app with product catalog, search, wishlist, cart, and integrated Stripe payment gateway.
+
+Implemented order tracking and user profile sections with smooth animations and clean UI/UX design.
+
 ---
 
 ## 🎯 Currently Learning
